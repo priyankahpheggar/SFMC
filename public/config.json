@@ -31,7 +31,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "__application_key_from_appcenter_here__",
+      "applicationExtensionKey": "ad027934-48df-4afe-a754-2f272c0fc31b",
       "save": {
         "url": "https://<your-domain-here>/journeybuilder/save",
           "verb": "POST",
