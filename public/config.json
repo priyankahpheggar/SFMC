@@ -8,7 +8,7 @@
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "Template",
+            "name": "PHP_CS",
           "description": "A Template for a custom Journey Builder activity",
           "step1Label": "Configure Activity"
         }
@@ -17,11 +17,11 @@
         "execute": {
            "inArguments":[
 				{
-                    "emailAddress": "{{Contact.Attribute.CustomActivity.EmailAddress}}"
+                     "emailAddress": "{{InteractionDefaults.Email}}"
                 }									
 			],
           "outArguments": [],
-          "url": "https://<your-domain-here>/journeybuilder/execute",
+          "url": "https://php-custom-activity-jb.herokuapp.com/journeybuilder/execute",
            "verb": "POST",
             "body": "",
             "header": "",
@@ -31,24 +31,24 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "ad027934-48df-4afe-a754-2f272c0fc31b",
+      "applicationExtensionKey": "b04463bb-043f-4fca-85bb-55ab6803c2cf",
       "save": {
-        "url": "https://<your-domain-here>/journeybuilder/save",
+        "url": "https://php-custom-activity-jb.herokuapp.com/builder/save",
           "verb": "POST",
         "useJwt": true
        },
        "publish": {
-        "url": "https://<your-domain-here>/journeybuilder/publish",
+        "url": "https://php-custom-activity-jb.herokuapp.com/journeybuilder/publish",
            "verb": "POST",
         "useJwt": true
        },
       "stop": {
-        "url": "https://<your-domain-here>/journeybuilder/stop",
+        "url": "https://php-custom-activity-jb.herokuapp.com/journeybuilder/stop",
            "verb": "POST",
         "useJwt": true
       },
       "validate": {
-        "url": "https://<your-domain-here>/journeybuilder/validate",
+        "url": "https://php-custom-activity-jb.herokuapp.com/journeybuilder/validate",
         "verb": "POST",
         "useJwt": true
       }
