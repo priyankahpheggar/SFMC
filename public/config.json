@@ -1,8 +1,8 @@
 {
     "workflowApiVersion": "1.1",
     "metaData": {
-        "icon": "icon.png",
-        "iconSmall": "iconSmall.png",
+        "icon": "menion.jpg",
+        "iconSmall": "menion.jpg",
         "category": "message"
     },
     "type": "REST",
