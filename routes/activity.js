@@ -87,6 +87,24 @@ exports.execute = function (req, res) {
             // decoded in arguments
             var decodedArgs = decoded.inArguments[0];
             
+            var request = require('request');
+            //var url = 'https://fe3515717564047a771c77.pub.s11.sfmc-content.com/nlfsuk1bm2c';
+            var url = 'https://en7ibooazxbj0o0.m.pipedream.net'    
+            request(
+                        {    
+                             url:url,
+                             method:"post",
+                             json: decoded.inArguments[0]
+                          },
+                         function (error, response, body)    
+                          {    
+                              if (!error)    
+                              {    console.log(body);    }    
+                          }    
+                   
+                    );
+            
+            
             logData(req);
             res.send(200, 'Execute');
         } else {
