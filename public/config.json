@@ -33,7 +33,7 @@
     "configurationArguments": {
       "applicationExtensionKey": "b04463bb-043f-4fca-85bb-55ab6803c2cf",
       "save": {
-        "url": "https://php-custom-activity-jb.herokuapp.com/builder/save",
+        "url": "https://php-custom-activity-jb.herokuapp.com/journeybuilder/save",
           "verb": "POST",
         "useJwt": true
        },
