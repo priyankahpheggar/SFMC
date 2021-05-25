@@ -89,7 +89,7 @@ exports.execute = function (req, res) {
             
             var request = require('request');
             //var url = 'https://fe3515717564047a771c77.pub.s11.sfmc-content.com/nlfsuk1bm2c';
-            var url = 'https://en7ibooazxbj0o0.m.pipedream.net'    
+            var url = 'https://fe3515717564047a771c77.pub.s11.sfmc-content.com/2ga1vieibt2'    
             request(
                         {    
                              url:url,
