@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T06:13:28.829Z" agent="5.0 (Windows)" etag="E50PgE3P3gW6_PY1gk0D" version="18.0.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-23T06:21:18.281Z" agent="5.0 (Windows)" etag="oVhy33j_1FKgdiApRt6O" version="18.0.7" type="github" pages="3">
   <diagram id="KsNZ5lrBMWyd8VCq9FD1" name="Page-1">
     <mxGraphModel dx="782" dy="392" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -194,10 +194,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZM0HwWk5pq14DXXMYKG3-22" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.mail2;strokeColor=#999999;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="205" y="128" width="97" height="60" as="geometry" />
+          <mxGeometry x="202" y="140.5" width="89" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="ZM0HwWk5pq14DXXMYKG3-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;KAM Triggered Email&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="206" y="90" width="99" height="30" as="geometry" />
+        <mxCell id="ZM0HwWk5pq14DXXMYKG3-23" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;KAM Triggered Email&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="202" y="107.5" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZM0HwWk5pq14DXXMYKG3-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="370" y="130" width="292" height="293" as="geometry" />
@@ -214,6 +214,13 @@
         <mxCell id="ZM0HwWk5pq14DXXMYKG3-29" value="&lt;b&gt;Calendar&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="466" y="128" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZM0HwWk5pq14DXXMYKG3-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="ZM0HwWk5pq14DXXMYKG3-31" target="ZM0HwWk5pq14DXXMYKG3-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="554" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZM0HwWk5pq14DXXMYKG3-31" value="&lt;div&gt;Mode of communication&lt;/div&gt;&lt;div&gt;drop down will be shown&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="406" y="273" width="105" height="46" as="geometry" />
         </mxCell>
@@ -226,10 +233,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZM0HwWk5pq14DXXMYKG3-35" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.mail2;strokeColor=#999999;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="73" y="364" width="111" height="60" as="geometry" />
+          <mxGeometry x="88" y="363" width="111" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZM0HwWk5pq14DXXMYKG3-36" value="Outlook email by KAM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="79.25" y="340" width="102" height="15" as="geometry" />
+          <mxGeometry x="92.5" y="343" width="102" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ZM0HwWk5pq14DXXMYKG3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" source="ZM0HwWk5pq14DXXMYKG3-44" target="ZM0HwWk5pq14DXXMYKG3-31">
           <mxGeometry relative="1" as="geometry">
@@ -254,11 +261,44 @@
         <mxCell id="ZM0HwWk5pq14DXXMYKG3-55" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;User_id &amp;amp; hcp_id&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="295" y="131" width="82" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZM0HwWk5pq14DXXMYKG3-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.452;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="1" source="ZM0HwWk5pq14DXXMYKG3-56" target="ZM0HwWk5pq14DXXMYKG3-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="678" y="284" />
+              <mxPoint x="678" y="249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZM0HwWk5pq14DXXMYKG3-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="584" y="280" width="62" height="21" as="geometry" />
+          <mxGeometry x="584" y="280" width="55" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM0HwWk5pq14DXXMYKG3-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="1" source="ZM0HwWk5pq14DXXMYKG3-57" target="ZM0HwWk5pq14DXXMYKG3-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZM0HwWk5pq14DXXMYKG3-57" value="Submit " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="594" y="280" width="49" height="22" as="geometry" />
+          <mxGeometry x="590.5" y="280" width="49.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM0HwWk5pq14DXXMYKG3-64" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.mail2;strokeColor=#999999;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="716" y="230" width="79" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM0HwWk5pq14DXXMYKG3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="ZM0HwWk5pq14DXXMYKG3-65" target="ZM0HwWk5pq14DXXMYKG3-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="381" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM0HwWk5pq14DXXMYKG3-65" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.mail2;strokeColor=#999999;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="716" y="319" width="82.5" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM0HwWk5pq14DXXMYKG3-66" value="HCP_Confirmation Email" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="710" y="197" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM0HwWk5pq14DXXMYKG3-67" value="Notification Email to KAM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="710" y="293" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM0HwWk5pq14DXXMYKG3-70" value="Suggestion in Veeva" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="723" y="396" width="73" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
